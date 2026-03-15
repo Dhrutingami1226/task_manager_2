@@ -102,7 +102,6 @@ A full-stack, secure REST API with JWT authentication, role-based access control
    ```env
    PORT=3001
    NODE_ENV=development
-   MONGODB_URI=mongodb://localhost:27017/task_manager
    JWT_SECRET=your_super_secret_jwt_key_change_this_in_production
    CORS_ORIGIN=http://localhost:5173
    ```
